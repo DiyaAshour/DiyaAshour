@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @DiyaAshour
-- 👀 I’m interested in Wordpress Development and Cybersecurity
-- 🌱 I’m currently learning more about secure coding practices and advanced Wordpress customization techniques.
-- 💞️ I’m looking to collaborate on Wordpress projects that involve integrating strong security measures.
-- 📫 How to reach me via email at DiyaAshour@icloud.com
-- ⚡ Fun fact: I once built a Wordpress site entirely using custom themes and plugins I coded myself!
+# 👋 I’m Diya Ashour
+### Architecting the Decentralized Future.
 
-<!---
-DiyaAshour/DiyaAshour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 **Current Mission:** Decentralizing the cloud via **[p2p-cloud](https://github.com/DiyaAshour/p2p-cloud)**.
+- 🛠 **Tech Stack:** Web3, P2P (libp2p), Electron, React 19.
+- 💡 **Vision:** Data belongs to people, not servers.
+
+📫 [DiyaAshour@icloud.com](mailto:DiyaAshour@icloud.com)
